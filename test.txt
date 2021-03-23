@@ -1,7 +1,6 @@
-Hello there, students!
+Hello there!
 Git course with generation 13 and Seamos Education
-course github
-learning javasctipt
+
+22.03.2021
 
 interaction
-online comunication
